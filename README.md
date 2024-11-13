@@ -1,2 +1,2 @@
-# docker
+# DOCKER
 Create a Dockerfile
