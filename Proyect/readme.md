@@ -1,2 +1,2 @@
 # TIPS
-<p>Project that involves creating two local websites with SSL certificates and using HTTPS, through the use of a Dockerfile, creating a container that supports Apache, PHP, and MariaDB.</p>
+<p>Here we have all the files for the Dockerfile to work. Small note: 'You need to access the MariaDB interface within the container and manually execute the file bases.sql.</p>
